@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//اذا مررت من هنا فادعوا الله ان ييسر لي امري 
+#include <iostream>
 #include<iomanip>
 #include<cmath>
 #include<string>
